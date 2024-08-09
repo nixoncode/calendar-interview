@@ -8,10 +8,10 @@ Welcome to the Calendar CRUD Operations task! This task is designed to assess yo
 Your objective is to:
 - [x] Create a fork of the codebase
 - [x] Understand the given codebase.
-- [ ] Modify the relevant files to add CRUD operations for handling calendar events.
-- [ ] Ensure proper database connection and interaction.
-- [ ] Implement the backend file structure and APIs.
-- [ ] Ensure the calendar frontend interacts smoothly with the backend.
+- [x] Modify the relevant files to add CRUD operations for handling calendar events.
+- [x] Ensure proper database connection and interaction.
+- [x] Implement the backend file structure and APIs.
+- [x] Ensure the calendar frontend interacts smoothly with the backend.
 
 ## 🔍 Assessment Criteria
 
